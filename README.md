@@ -1,5 +1,5 @@
-# Title
-a guided magazine layout by FreeCodeCamp 
+## a guided magazine layout by FreeCodeCamp 
 
-## Demo
+
+### Demo
 https://deviatovae.github.io/freecodecamp/
